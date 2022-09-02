@@ -1,3 +1,6 @@
+# Live website:
+https://endearing-sprite-378ff3.netlify.app/
+
 # Cuisinebo Starter Application
 
 Clone this repository and run the command below to install the project's dependencies
